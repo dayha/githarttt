@@ -1,0 +1,102 @@
+.main{
+    width: 980px;
+    margin: 5px auto 10px;
+    position: relative;
+}
+.main_left{
+    border-radius: 6px 6px 0 0;
+    width: 194px;
+    border: 1px solid rgb(231,59,41);
+}
+.main_left_top{
+    height: 28px;
+    background: url("../project/购物车图标/yonghuxinxi_03.png") no-repeat;
+}
+.main_left ul{
+    padding: 15px;
+}
+.main_left ul li{
+    line-height: 22px;
+}
+.main_right{
+    width: 774px;
+    position: absolute;
+    left: 200px;
+    bottom: 64px;
+}
+.main_right_top{
+    height: 20px;
+    background: rgb(231,231,231);
+}
+.main_right_top i{
+    color: rgb(102,102,102);
+}
+.main_right_main{
+    height: 100px;
+}
+.main_right_main1 ul li{
+    float: left;
+}
+.ware{
+    width: 360px;
+    font-weight: bold;
+}
+.operation{
+    width: 160px;
+    text-align: center;
+    font-weight: bold;
+}
+.price{
+    width: 80px;
+    text-align: center;
+    font-weight: bold;
+}
+.total{
+    width: 70px;
+    text-align: center;
+    font-weight: bold;
+}
+.number,.style{
+    width: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+.main_right_main2 ul li{
+    float: left;
+}
+.name{
+    width: 360px;
+}
+.operation1{
+    width: 160px;
+    text-align: center;
+}
+.price1{
+    width: 80px;
+    text-align: center;
+}
+.total1{
+    width: 70px;
+    text-align: center;
+}
+.number1, .number2,.style1{
+    width: 50px;
+    text-align: center;
+}
+.main_right_footer{
+    float: right;
+    text-align: right;
+}
+.main_right_footer1{
+    margin-bottom: 5px;
+}
+.main_right_footer1 i{
+    color: red;
+}
+.main_right_footer1 a{
+    color: blue;
+}
+.main_right_footer2 input{
+    margin-left: 10px;
+    margin-top: 5px;
+}
